@@ -14,6 +14,8 @@ This folder contains the code and resources accompanying the paper. It includes:
 The core architecture (Earthformer) is not included here. It can be accessed at:  
 https://github.com/amazon-science/earth-forecasting-transformer
 
+Trained model weights are archive here: https://doi.org/10.5281/zenodo.20271368
+
 ## Setup
 
 - Install the Earthformer architecture as a local package (e.g., using `pip install -e .` inside the Earthformer directory).
